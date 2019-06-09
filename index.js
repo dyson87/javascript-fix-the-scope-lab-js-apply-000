@@ -1,4 +1,4 @@
-var animal = 'dof'
+var animal = 'dog'
 
 function myAnimal() {
   return animal
